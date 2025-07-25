@@ -1,0 +1,1 @@
+export default function App() { document.getElementById('root').innerText = 'Produktverwaltung App läuft!'; }
