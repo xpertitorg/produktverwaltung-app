@@ -1,6 +1,6 @@
 
 import React, { useState } from "react";
-import { produkte } from "./produkte";
+import produkte from "./produkte";
 
 type Produkt = {
   Artikelnummer: number;
