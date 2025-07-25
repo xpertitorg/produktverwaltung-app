@@ -1,1 +1,684 @@
-[{"artikelnummer":200,"bezeichnung":"xDomain\r\n- Verwaltung und Pflege der Domain\r\n- SSL","preis_netto":19.9,"preis_brutto":23.88,"kategorie":"2 - Managed Services","farbe":"#DBEAFE"},{"artikelnummer":210,"bezeichnung":"xProtect Standard\n- Endpoint Protection für Client","preis_netto":3.99,"preis_brutto":4.79,"kategorie":"2 - Managed Services","farbe":"#DBEAFE"},{"artikelnummer":211,"bezeichnung":"xProtect Exclusive\n- Endpoint Protection für Clien","preis_netto":9.0,"preis_brutto":10.8,"kategorie":"2 - Managed Services","farbe":"#DBEAFE"},{"artikelnummer":212,"bezeichnung":"xProtect Premium\n- Endpoint Protection für Clients","preis_netto":19.9,"preis_brutto":23.88,"kategorie":"2 - Managed Services","farbe":"#DBEAFE"},{"artikelnummer":220,"bezeichnung":"xMailArchiv\n- Revisionssichere E-Mail Archivierung","preis_netto":9.0,"preis_brutto":10.8,"kategorie":"2 - Managed Services","farbe":"#DBEAFE"},{"artikelnummer":222,"bezeichnung":"xTicket:\r\n\r\n- Wartung, Pflege und Hosting des Tick","preis_netto":30.0,"preis_brutto":36.0,"kategorie":"2 - Managed Services","farbe":"#DBEAFE"},{"artikelnummer":300,"bezeichnung":"Microsoft 365 Apps for Business\r\n- Word, Excel, Po","preis_netto":11.25,"preis_brutto":13.5,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":301,"bezeichnung":"Exchange Online Plan 1\r\n- Exchange Postfach mit 50","preis_netto":6.4,"preis_brutto":7.68,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":302,"bezeichnung":"Microsoft 365 Business Basic\r\nWeb- und Mobile-Vers","preis_netto":8.9,"preis_brutto":10.68,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":303,"bezeichnung":"Microsoft 365 Business Standard\r\n- Word, Excel, Po","preis_netto":15.9,"preis_brutto":19.08,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":304,"bezeichnung":"Microsoft 365 Business Premium\r\n- Word, Excel, Pow","preis_netto":22.1,"preis_brutto":26.52,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":305,"bezeichnung":"Microsoft 365 Copilot","preis_netto":28.1,"preis_brutto":33.72,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":308,"bezeichnung":"Microsoft Teams-Räume Pro\r\n- Nahtloser Übergang zu","preis_netto":44.88,"preis_brutto":53.86,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":309,"bezeichnung":"Exchange Premium\r\n- Exchange Postfach mit 50 GB Sp","preis_netto":9.4,"preis_brutto":11.28,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":310,"bezeichnung":"xBackup Basic für Microsoft 365\n- 1 Terrabyte Spei","preis_netto":60.0,"preis_brutto":72.0,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":311,"bezeichnung":"xBackup Premium für Microsoft 365\n- unbegrenzter S","preis_netto":10.0,"preis_brutto":12.0,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":311,"bezeichnung":"xBackup Premium für Microsoft 365\n- unbegrenzter S","preis_netto":10.0,"preis_brutto":12.0,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":312,"bezeichnung":"xBackup Premium Workstation\r\n- für Win\/Mac OS Clie","preis_netto":4.99,"preis_brutto":5.99,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":312,"bezeichnung":"xBackup Premium Workstations\r\n- für Win\/Mac OS Cli","preis_netto":4.99,"preis_brutto":5.99,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":314,"bezeichnung":"xBackup Premium Servers\r\n- für Windows-Server\r\n- S","preis_netto":14.9,"preis_brutto":17.88,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":315,"bezeichnung":"xBackup - 1TB Cloud-Storage\r\n\r\n- Speicherpool für ","preis_netto":49.9,"preis_brutto":59.88,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":316,"bezeichnung":"xBackup - 2TB Cloud-Storage\r\n\r\n- Speicherpool für ","preis_netto":79.9,"preis_brutto":95.88,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":316,"bezeichnung":"xBackup - 5TB Cloud-Storage\r\n\r\n- Speicherpool für ","preis_netto":109.9,"preis_brutto":131.88,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":316,"bezeichnung":"xBackup -10TB Cloud-Storage\r\n\r\n- Speicherpool für ","preis_netto":149.9,"preis_brutto":179.88,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":316,"bezeichnung":"xBackup -10TB Cloud-Storage\r\n\r\n- Speicherpool für ","preis_netto":149.9,"preis_brutto":179.88,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":316,"bezeichnung":"xBackup - 5TB Cloud-Storage\r\n\r\n- Speicherpool für ","preis_netto":109.9,"preis_brutto":131.88,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":316,"bezeichnung":"xBackup - 2TB Cloud-Storage\r\n\r\n- Speicherpool für ","preis_netto":79.9,"preis_brutto":95.88,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":320,"bezeichnung":"xVoIP User\r\n- Uneingeschränkte Nutzung der Cloud T","preis_netto":7.0,"preis_brutto":8.4,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":321,"bezeichnung":"xVoIP Server 4SC\r\n- Cloud Telefonanlage mit 4 glei","preis_netto":29.0,"preis_brutto":34.8,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":322,"bezeichnung":"xVoIP Server 8SC\r\n- Cloud Telefonanlage mit 8 glei","preis_netto":39.0,"preis_brutto":46.8,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":329,"bezeichnung":"xVoIP Upgrade-Lizenz\r\n\r\n- Immer die aktuelle Versi","preis_netto":199.0,"preis_brutto":238.8,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":330,"bezeichnung":"xCloud-File\n- 2TB Speicherplatz*\n- Online Zugriff\n","preis_netto":14.9,"preis_brutto":17.88,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":340,"bezeichnung":"xDrive 1TB*\n\n- Dezentrale Datensicherung in einem ","preis_netto":39.9,"preis_brutto":47.88,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":350,"bezeichnung":"xWeb\n- Webspace für die Ablage von Webseiten\n- SSL","preis_netto":21.67,"preis_brutto":26.0,"kategorie":"3 - Cloud Services","farbe":"#DCFCE7"},{"artikelnummer":520,"bezeichnung":"SLA 6 Standard\r\n\r\n- 6 Stunden Reaktionszeit innerh","preis_netto":900.0,"preis_brutto":1080.0,"kategorie":"5 - Support-Verträge","farbe":"#FFEDD5"},{"artikelnummer":530,"bezeichnung":"SLA 8 Standard\r\n\r\n- 8 Stunden Reaktionszeit innerh","preis_netto":500.0,"preis_brutto":600.0,"kategorie":"5 - Support-Verträge","farbe":"#FFEDD5"},{"artikelnummer":590,"bezeichnung":"Power User \r\n\r\n•\tMicrosoft 365 Business Standard A","preis_netto":59.0,"preis_brutto":70.8,"kategorie":"5 - Support-Verträge","farbe":"#FFEDD5"},{"artikelnummer":591,"bezeichnung":"Standard User \r\n\r\n•\tMicrosoft 365 Business Standar","preis_netto":34.0,"preis_brutto":40.8,"kategorie":"5 - Support-Verträge","farbe":"#FFEDD5"},{"artikelnummer":592,"bezeichnung":"Light User \r\n\r\n•\tMicrosoft 365 Business Standard A","preis_netto":25.0,"preis_brutto":30.0,"kategorie":"5 - Support-Verträge","farbe":"#FFEDD5"},{"artikelnummer":593,"bezeichnung":"Mail only User \r\n\r\n•\tMicrosoft 365 Exchange Online","preis_netto":10.0,"preis_brutto":12.0,"kategorie":"5 - Support-Verträge","farbe":"#FFEDD5"},{"artikelnummer":700,"bezeichnung":"<b>.eu Domain<\/b>\r\n<ol>\r\n<li>DOMAINNAME.eu<\/li>\r\n<","preis_netto":10.0,"preis_brutto":12.0,"kategorie":"7 - Domains","farbe":"#FCE7F3"},{"artikelnummer":701,"bezeichnung":"<b>.at Domain<\/b>\r\n<ol>\r\n<li>DOMAINNAME.at<\/li>\r\n<","preis_netto":12.0,"preis_brutto":14.4,"kategorie":"7 - Domains","farbe":"#FCE7F3"},{"artikelnummer":702,"bezeichnung":"<b>.ch Domain<\/b>\r\n<ol>\r\n<li>DOMAINNAME.ch<\/li>\r\n<","preis_netto":17.0,"preis_brutto":20.4,"kategorie":"7 - Domains","farbe":"#FCE7F3"},{"artikelnummer":703,"bezeichnung":"<b>.co Domain<\/b>\r\n<ol>\r\n<li>DOMAINNAME.co<\/li>\r\n<","preis_netto":34.0,"preis_brutto":40.8,"kategorie":"7 - Domains","farbe":"#FCE7F3"},{"artikelnummer":704,"bezeichnung":"<b>.com Domain<\/b>\r\n<ol>\r\n<li>DOMAINNAME.com<\/li>\r","preis_netto":13.0,"preis_brutto":15.6,"kategorie":"7 - Domains","farbe":"#FCE7F3"},{"artikelnummer":705,"bezeichnung":"<b>.eu Domain<\/b>\r\n<ol>\r\n<li>DOMAINNAME.eu<\/li>\r\n<","preis_netto":3.0,"preis_brutto":3.6,"kategorie":"7 - Domains","farbe":"#FCE7F3"},{"artikelnummer":706,"bezeichnung":"<b>.fr Domain<\/b>\r\n<ol>\r\n<li>DOMAINNAME.fr<\/li>\r\n<","preis_netto":14.5,"preis_brutto":17.4,"kategorie":"7 - Domains","farbe":"#FCE7F3"},{"artikelnummer":707,"bezeichnung":"<b>.info Domain<\/b>\r\n<ol>\r\n<li>DOMAINNAME.info<\/li","preis_netto":19.5,"preis_brutto":23.4,"kategorie":"7 - Domains","farbe":"#FCE7F3"},{"artikelnummer":708,"bezeichnung":"<b>.nl Domain<\/b>\r\n<ol>\r\n<li>DOMAINNAME.nl<\/li>\r\n<","preis_netto":12.0,"preis_brutto":14.4,"kategorie":"7 - Domains","farbe":"#FCE7F3"},{"artikelnummer":709,"bezeichnung":"<b>.online Domain<\/b>\r\n<ol>\r\n<li>DOMAINNAME.online","preis_netto":42.0,"preis_brutto":50.4,"kategorie":"7 - Domains","farbe":"#FCE7F3"},{"artikelnummer":710,"bezeichnung":"<b>.shop Domain<\/b>\r\n<ol>\r\n<li>DOMAINNAME.shop<\/li","preis_netto":38.5,"preis_brutto":46.2,"kategorie":"7 - Domains","farbe":"#FCE7F3"},{"artikelnummer":711,"bezeichnung":"<b>.uk Domain<\/b>\r\n<ol>\r\n<li>DOMAINNAME.uk<\/li>\r\n<","preis_netto":15.5,"preis_brutto":18.6,"kategorie":"7 - Domains","farbe":"#FCE7F3"},{"artikelnummer":712,"bezeichnung":"<b>.us Domain<\/b>\r\n<ol>\r\n<li>DOMAINNAME.us<\/li>\r\n<","preis_netto":13.0,"preis_brutto":15.6,"kategorie":"7 - Domains","farbe":"#FCE7F3"},{"artikelnummer":713,"bezeichnung":"<b>.de Domain<\/b>\r\n<ol>\r\n<li>DOMAINNAME.de<\/li>\r\n<","preis_netto":3.0,"preis_brutto":3.6,"kategorie":"7 - Domains","farbe":"#FCE7F3"},{"artikelnummer":714,"bezeichnung":"<b>.net Domain<\/b>\r\n<ol>\r\n<li>DOMAINNAMEnet<\/li>\r\n","preis_netto":15.5,"preis_brutto":18.6,"kategorie":"7 - Domains","farbe":"#FCE7F3"}]
+const produkte = [
+  {
+    "artikelnummer": 200,
+    "bezeichnung": "Ware",
+    "preis_netto": 19.9,
+    "preis_brutto": 23.88,
+    "kategorie": "2 - Managed Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 601,
+    "bezeichnung": "Ware",
+    "preis_netto": 5.0,
+    "preis_brutto": 6.0,
+    "kategorie": "6 - Hardware",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 600,
+    "bezeichnung": "Ware",
+    "preis_netto": 6.0,
+    "preis_brutto": 7.2,
+    "kategorie": "6 - Hardware",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 593,
+    "bezeichnung": "Ware",
+    "preis_netto": 10.0,
+    "preis_brutto": 12.0,
+    "kategorie": "5 - Support-Verträge",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 592,
+    "bezeichnung": "Ware",
+    "preis_netto": 25.0,
+    "preis_brutto": 30.0,
+    "kategorie": "5 - Support-Verträge",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 591,
+    "bezeichnung": "Ware",
+    "preis_netto": 34.0,
+    "preis_brutto": 40.8,
+    "kategorie": "5 - Support-Verträge",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 590,
+    "bezeichnung": "Ware",
+    "preis_netto": 59.0,
+    "preis_brutto": 70.8,
+    "kategorie": "5 - Support-Verträge",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 532,
+    "bezeichnung": "Ware",
+    "preis_netto": 1900.0,
+    "preis_brutto": 2280.0,
+    "kategorie": "5 - Support-Verträge",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 530,
+    "bezeichnung": "Ware",
+    "preis_netto": 500.0,
+    "preis_brutto": 600.0,
+    "kategorie": "5 - Support-Verträge",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 522,
+    "bezeichnung": "Ware",
+    "preis_netto": 2300.0,
+    "preis_brutto": 2760.0,
+    "kategorie": "5 - Support-Verträge",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 520,
+    "bezeichnung": "Ware",
+    "preis_netto": 900.0,
+    "preis_brutto": 1080.0,
+    "kategorie": "5 - Support-Verträge",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 512,
+    "bezeichnung": "Ware",
+    "preis_netto": 3500.0,
+    "preis_brutto": 4200.0,
+    "kategorie": "5 - Support-Verträge",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 510,
+    "bezeichnung": "Ware",
+    "preis_netto": 1500.0,
+    "preis_brutto": 1800.0,
+    "kategorie": "5 - Support-Verträge",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 502,
+    "bezeichnung": "Ware",
+    "preis_netto": 5500.0,
+    "preis_brutto": 6600.0,
+    "kategorie": "5 - Support-Verträge",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 500,
+    "bezeichnung": "Ware",
+    "preis_netto": 3000.0,
+    "preis_brutto": 3600.0,
+    "kategorie": "5 - Support-Verträge",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 412,
+    "bezeichnung": "Ware",
+    "preis_netto": 0.0,
+    "preis_brutto": 0.0,
+    "kategorie": "4 - Sonstige",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 411,
+    "bezeichnung": "Ware",
+    "preis_netto": 19.0,
+    "preis_brutto": 22.8,
+    "kategorie": "4 - Sonstige",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 410,
+    "bezeichnung": "Ware",
+    "preis_netto": 15.0,
+    "preis_brutto": 18.0,
+    "kategorie": "4 - Sonstige",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 602,
+    "bezeichnung": "Ware",
+    "preis_netto": 6.5,
+    "preis_brutto": 7.8,
+    "kategorie": "6 - Hardware",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 604,
+    "bezeichnung": "Ware",
+    "preis_netto": 9.0,
+    "preis_brutto": 10.8,
+    "kategorie": "6 - Hardware",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 605,
+    "bezeichnung": "Ware",
+    "preis_netto": 11.0,
+    "preis_brutto": 13.2,
+    "kategorie": "6 - Hardware",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 606,
+    "bezeichnung": "Ware",
+    "preis_netto": 13.5,
+    "preis_brutto": 16.2,
+    "kategorie": "6 - Hardware",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 712,
+    "bezeichnung": "Ware",
+    "preis_netto": 13.0,
+    "preis_brutto": 15.6,
+    "kategorie": "7 - Domains",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 711,
+    "bezeichnung": "Ware",
+    "preis_netto": 15.5,
+    "preis_brutto": 18.6,
+    "kategorie": "7 - Domains",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 710,
+    "bezeichnung": "Ware",
+    "preis_netto": 38.5,
+    "preis_brutto": 46.2,
+    "kategorie": "7 - Domains",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 709,
+    "bezeichnung": "Ware",
+    "preis_netto": 42.0,
+    "preis_brutto": 50.4,
+    "kategorie": "7 - Domains",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 708,
+    "bezeichnung": "Ware",
+    "preis_netto": 12.0,
+    "preis_brutto": 14.4,
+    "kategorie": "7 - Domains",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 707,
+    "bezeichnung": "Ware",
+    "preis_netto": 19.5,
+    "preis_brutto": 23.4,
+    "kategorie": "7 - Domains",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 706,
+    "bezeichnung": "Ware",
+    "preis_netto": 14.5,
+    "preis_brutto": 17.4,
+    "kategorie": "7 - Domains",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 705,
+    "bezeichnung": "Ware",
+    "preis_netto": 3.0,
+    "preis_brutto": 3.6,
+    "kategorie": "7 - Domains",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 407,
+    "bezeichnung": "Ware",
+    "preis_netto": 150.0,
+    "preis_brutto": 180.0,
+    "kategorie": "4 - Sonstige",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 704,
+    "bezeichnung": "Ware",
+    "preis_netto": 13.0,
+    "preis_brutto": 15.6,
+    "kategorie": "7 - Domains",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 702,
+    "bezeichnung": "Ware",
+    "preis_netto": 17.0,
+    "preis_brutto": 20.4,
+    "kategorie": "7 - Domains",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 701,
+    "bezeichnung": "Ware",
+    "preis_netto": 12.0,
+    "preis_brutto": 14.4,
+    "kategorie": "7 - Domains",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 700,
+    "bezeichnung": "Ware",
+    "preis_netto": 10.0,
+    "preis_brutto": 12.0,
+    "kategorie": "7 - Domains",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 611,
+    "bezeichnung": "Ware",
+    "preis_netto": 41.2,
+    "preis_brutto": 49.44,
+    "kategorie": "6 - Hardware",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 610,
+    "bezeichnung": "Ware",
+    "preis_netto": 3.2,
+    "preis_brutto": 3.84,
+    "kategorie": "6 - Hardware",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 609,
+    "bezeichnung": "Ware",
+    "preis_netto": 25.0,
+    "preis_brutto": 30.0,
+    "kategorie": "6 - Hardware",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 608,
+    "bezeichnung": "Ware",
+    "preis_netto": 7.75,
+    "preis_brutto": 9.3,
+    "kategorie": "6 - Hardware",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 607,
+    "bezeichnung": "Ware",
+    "preis_netto": 18.0,
+    "preis_brutto": 21.6,
+    "kategorie": "6 - Hardware",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 703,
+    "bezeichnung": "Ware",
+    "preis_netto": 34.0,
+    "preis_brutto": 40.8,
+    "kategorie": "7 - Domains",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 713,
+    "bezeichnung": "Ware",
+    "preis_netto": 3.0,
+    "preis_brutto": 3.6,
+    "kategorie": "7 - Domains",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 406,
+    "bezeichnung": "Ware",
+    "preis_netto": 200.0,
+    "preis_brutto": 240.0,
+    "kategorie": "4 - Sonstige",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 404,
+    "bezeichnung": "Ware",
+    "preis_netto": 0.6,
+    "preis_brutto": 0.72,
+    "kategorie": "4 - Sonstige",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 312,
+    "bezeichnung": "Ware",
+    "preis_netto": 4.99,
+    "preis_brutto": 5.99,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 311,
+    "bezeichnung": "Ware",
+    "preis_netto": 10.0,
+    "preis_brutto": 12.0,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 311,
+    "bezeichnung": "Ware",
+    "preis_netto": 10.0,
+    "preis_brutto": 12.0,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 310,
+    "bezeichnung": "Ware",
+    "preis_netto": 60.0,
+    "preis_brutto": 72.0,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 309,
+    "bezeichnung": "Ware",
+    "preis_netto": 9.4,
+    "preis_brutto": 11.28,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 308,
+    "bezeichnung": "Ware",
+    "preis_netto": 44.88,
+    "preis_brutto": 53.86,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 305,
+    "bezeichnung": "Ware",
+    "preis_netto": 28.1,
+    "preis_brutto": 33.72,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 304,
+    "bezeichnung": "Ware",
+    "preis_netto": 22.1,
+    "preis_brutto": 26.52,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 303,
+    "bezeichnung": "Ware",
+    "preis_netto": 15.9,
+    "preis_brutto": 19.08,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 302,
+    "bezeichnung": "Ware",
+    "preis_netto": 8.9,
+    "preis_brutto": 10.68,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 301,
+    "bezeichnung": "Ware",
+    "preis_netto": 6.4,
+    "preis_brutto": 7.68,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 300,
+    "bezeichnung": "Ware",
+    "preis_netto": 11.25,
+    "preis_brutto": 13.5,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 222,
+    "bezeichnung": "Ware",
+    "preis_netto": 30.0,
+    "preis_brutto": 36.0,
+    "kategorie": "2 - Managed Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 220,
+    "bezeichnung": "Ware",
+    "preis_netto": 9.0,
+    "preis_brutto": 10.8,
+    "kategorie": "2 - Managed Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 212,
+    "bezeichnung": "Ware",
+    "preis_netto": 19.9,
+    "preis_brutto": 23.88,
+    "kategorie": "2 - Managed Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 211,
+    "bezeichnung": "Ware",
+    "preis_netto": 9.0,
+    "preis_brutto": 10.8,
+    "kategorie": "2 - Managed Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 210,
+    "bezeichnung": "Ware",
+    "preis_netto": 3.99,
+    "preis_brutto": 4.79,
+    "kategorie": "2 - Managed Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 312,
+    "bezeichnung": "Ware",
+    "preis_netto": 4.99,
+    "preis_brutto": 5.99,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 314,
+    "bezeichnung": "Ware",
+    "preis_netto": 14.9,
+    "preis_brutto": 17.88,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 315,
+    "bezeichnung": "Ware",
+    "preis_netto": 49.9,
+    "preis_brutto": 59.88,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 316,
+    "bezeichnung": "Ware",
+    "preis_netto": 79.9,
+    "preis_brutto": 95.88,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 403,
+    "bezeichnung": "Ware",
+    "preis_netto": 99.11,
+    "preis_brutto": 118.93,
+    "kategorie": "4 - Sonstige",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 402,
+    "bezeichnung": "Ware",
+    "preis_netto": 68.69,
+    "preis_brutto": 82.43,
+    "kategorie": "4 - Sonstige",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 401,
+    "bezeichnung": "Ware",
+    "preis_netto": 44.46,
+    "preis_brutto": 53.35,
+    "kategorie": "4 - Sonstige",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 400,
+    "bezeichnung": "Ware",
+    "preis_netto": 16.23,
+    "preis_brutto": 19.48,
+    "kategorie": "4 - Sonstige",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 399,
+    "bezeichnung": "Ware",
+    "preis_netto": 9.0,
+    "preis_brutto": 10.8,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 398,
+    "bezeichnung": "Ware",
+    "preis_netto": 29.0,
+    "preis_brutto": 34.8,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 350,
+    "bezeichnung": "Ware",
+    "preis_netto": 21.67,
+    "preis_brutto": 26.0,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 340,
+    "bezeichnung": "Ware",
+    "preis_netto": 39.9,
+    "preis_brutto": 47.88,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 405,
+    "bezeichnung": "Ware",
+    "preis_netto": 0.75,
+    "preis_brutto": 0.9,
+    "kategorie": "4 - Sonstige",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 330,
+    "bezeichnung": "Ware",
+    "preis_netto": 14.9,
+    "preis_brutto": 17.88,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 322,
+    "bezeichnung": "Ware",
+    "preis_netto": 39.0,
+    "preis_brutto": 46.8,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 321,
+    "bezeichnung": "Ware",
+    "preis_netto": 29.0,
+    "preis_brutto": 34.8,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 320,
+    "bezeichnung": "Ware",
+    "preis_netto": 7.0,
+    "preis_brutto": 8.4,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 316,
+    "bezeichnung": "Ware",
+    "preis_netto": 79.9,
+    "preis_brutto": 95.88,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 316,
+    "bezeichnung": "Ware",
+    "preis_netto": 109.9,
+    "preis_brutto": 131.88,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 316,
+    "bezeichnung": "Ware",
+    "preis_netto": 149.9,
+    "preis_brutto": 179.88,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 316,
+    "bezeichnung": "Ware",
+    "preis_netto": 149.9,
+    "preis_brutto": 179.88,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 316,
+    "bezeichnung": "Ware",
+    "preis_netto": 109.9,
+    "preis_brutto": 131.88,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 329,
+    "bezeichnung": "Ware",
+    "preis_netto": 199.0,
+    "preis_brutto": 238.8,
+    "kategorie": "3 - Cloud Services",
+    "farbe": "#CCCCCC"
+  },
+  {
+    "artikelnummer": 714,
+    "bezeichnung": "Ware",
+    "preis_netto": 15.5,
+    "preis_brutto": 18.6,
+    "kategorie": "7 - Domains",
+    "farbe": "#CCCCCC"
+  }
+];
+
+export default produkte;
